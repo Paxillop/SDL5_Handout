@@ -1,0 +1,8 @@
+﻿  ModuleSceneKen.cpp
+  ModuleSceneHonda.cpp
+  ModuleFadeToBlack.cpp
+c:\users\paulc2\desktop\sdl5_handout\modulefadetoblack.cpp(48): error C2039: 'disable': is not a member of 'Module'
+  c:\users\paulc2\desktop\sdl5_handout\module.h(5): note: see declaration of 'Module'
+c:\users\paulc2\desktop\sdl5_handout\modulefadetoblack.cpp(49): error C2039: 'enable': is not a member of 'Module'
+  c:\users\paulc2\desktop\sdl5_handout\module.h(5): note: see declaration of 'Module'
+  Generating Code...
